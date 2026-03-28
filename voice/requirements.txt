@@ -1,0 +1,15 @@
+# Azure VoiceLive SDK
+azure-ai-voicelive
+
+# Azure identity for token-based auth
+azure-identity
+
+# Audio I/O
+pyaudio
+
+# Environment variable loading
+python-dotenv
+
+# Voice server (WebSocket bridge to React frontend)
+fastapi
+uvicorn[standard]
